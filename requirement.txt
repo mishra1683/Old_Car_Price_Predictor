@@ -1,6 +1,11 @@
-This is a Old Car Predictor Website
+# This is a Old Car Predictor Website
 
+# Car Details
 Company
 Model 
 Year of Purchase 
 Distance Travelled
+
+# Python libraries
+Pandas
+Numpy
