@@ -1,4 +1,4 @@
-# This is a Old Car Predictor Website
+# This is a Old Car Price Predictor Website
 
 # Car Details
 Company
