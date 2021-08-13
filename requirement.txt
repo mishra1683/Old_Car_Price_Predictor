@@ -1,11 +1,5 @@
-# This is a Old Car Price Predictor Website
-
-# Car Details
-Company
-Model 
-Year of Purchase 
-Distance Travelled
-
-# Python libraries
-Pandas
-Numpy
+streamlit==0.83.0
+tensorflow==2.5.0
+keras==2.4.0
+numpy==1.21.0
+matplotlib==3.4.2
