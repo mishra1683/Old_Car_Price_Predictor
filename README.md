@@ -26,6 +26,7 @@ This project aims to predict the price of an used car by taking it's Company nam
 ----
 # Demonstration  
 
-Demo to use the web page: 
+Demo to use the web page: <br>
+<br>
 ![](Media/Demo.gif)
 
