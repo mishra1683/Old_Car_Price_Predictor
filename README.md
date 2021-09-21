@@ -24,11 +24,8 @@ This project aims to predict the price of an used car by taking it's Company nam
 5. To close the app from the terminal, press Ctrl+C.
 
 ----
-# Demonstration
-<br>
+# Demonstration  
 
-Demo to use the web page:
-<br>
-
-
+Demo to use the web page: 
 ![](Media/Demo.gif)
+
